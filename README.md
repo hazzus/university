@@ -20,7 +20,7 @@ I am a student of second course on Computer Technologies Department in ITMO Univ
 2. [Android Applications](https://github.com/hazzus/AndroidCourse) ITMO.Maps team project
 ## Term 4
 1. [Mathematical Logic](https://github.com/hazzus/math-logic)
-2. [Operating Systems]
+2. Operating Systems
     * [Kid-shell](https://github.com/hazzus/os-kidshell)
     * [Find util](https://github.com/hazzus/os-find)
 3. Java Advanced (No source to github)
