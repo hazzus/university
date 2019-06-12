@@ -23,4 +23,9 @@ I am a student of second course on Computer Technologies Department in ITMO Univ
 2. Operating Systems
     * [Kid-shell](https://github.com/hazzus/os-kidshell)
     * [Find util](https://github.com/hazzus/os-find)
+    * [Piece of jit-compiler](https://github.com/hazzus/os-jit)
+    * [Working with libs](https://github.com/hazzus/os-lib)
+    * [Synchronized echo server](https://github.com/hazzus/os-net)
+    * [Multiplexing server](https://github.com/hazzus/os-net-multiplexing)
+    * [Descriptor passing UNIX server](https://github.com/hazzus/os-net-descriptor-passing)
 3. Java Advanced (No source to github)
