@@ -1,5 +1,5 @@
 # University
-I am a student of second course on Computer Technologies Department in ITMO Univeristy, Saint-Petersburg, Russia
+I am a student of third course on Computer Technologies Department in ITMO Univeristy, Saint-Petersburg, Russia
 ## Term 1
 1. [Programming intro](https://github.com/hazzus/Prog-intro-in-ITMO)
     * Special task - single-threaded [offline browser](https://github.com/hazzus/Java-Offline-Browser)
@@ -9,7 +9,7 @@ I am a student of second course on Computer Technologies Department in ITMO Univ
     * [Big Integer implementation](https://github.com/hazzus/cpp-bigint) with copy-on-write optimisation
     * [Huffman Encodeing library and console utility](https://github.com/hazzus/huffman_coding)
     * [Exam task. std::list implementation](https://github.com/hazzus/list)
-2. Programming Paradigms(No source to github)
+2. Programming Paradigms(No sources on github)
 ## Term 3
 1. C++ Programming Language
     * [Copy-finder](https://github.com/hazzus/copy-finder)  
@@ -28,4 +28,12 @@ I am a student of second course on Computer Technologies Department in ITMO Univ
     * [Synchronized echo server](https://github.com/hazzus/os-net)
     * [Multiplexing server](https://github.com/hazzus/os-net-multiplexing)
     * [Descriptor passing UNIX server](https://github.com/hazzus/os-net-descriptor-passing)
-3. Java Advanced (No source to github)
+3. Java Advanced (No sources on github)
+## Term 5
+1. [Type theory](https://github.com/hazzus/type-theory)
+2. [Cryptography](https://github.com/hazzus/cryptography)
+3. Parallel Programming (No sources on github)
+4. [Translation Methods](https://github.com/hazzus/parser-course)
+5. 
+
+
