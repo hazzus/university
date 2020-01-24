@@ -34,6 +34,5 @@ I am a student of third course on Computer Technologies Department in ITMO Unive
 2. [Cryptography](https://github.com/hazzus/cryptography)
 3. Parallel Programming (No sources on github)
 4. [Translation Methods](https://github.com/hazzus/parser-course)
-5. 
 
 
