@@ -33,6 +33,7 @@ I am a student of third course on Computer Technologies Department in ITMO Unive
 1. [Type theory](https://github.com/hazzus/type-theory)
 2. [Cryptography](https://github.com/hazzus/cryptography)
 3. Parallel Programming (No sources on github)
-4. [Translation Methods](https://github.com/hazzus/parser-course)
+4. Translation Methods
+   * [Parser-generator](https://github.com/hazzus/parsogen) just like ANTLR
 
 
