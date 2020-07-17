@@ -35,5 +35,11 @@ I am a student of third course on Computer Technologies Department in ITMO Unive
 3. Parallel Programming (No sources on github)
 4. Translation Methods
    * [Parser-generator](https://github.com/hazzus/parsogen) just like ANTLR
-
-
+## Term 6
+1. Programming Distributed Systems (No sources on github)
+2. Programming on Graphic Cards (OpenCL) (Not yet done)
+3. Numerical Analysis
+   * [HW1](https://github.com/IEclipseI/numerical-analysis-hw1)
+   * [HW2](https://github.com/hazzus/numanal-hw2)
+   * [Term paper](https://github.com/hazzus/numanal-term-paper)
+4. [Functional Programming (Haskell)](https://github.com/hazzus/funcprog) (not full)
