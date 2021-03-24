@@ -37,9 +37,14 @@ I am a student of third course on Computer Technologies Department in ITMO Unive
    * [Parser-generator](https://github.com/hazzus/parsogen) just like ANTLR
 ## Term 6
 1. Programming Distributed Systems (No sources on github)
-2. Programming on Graphic Cards (OpenCL) (Not yet done)
+2. [Programming on Graphic Cards (OpenCL)](https://github.com/hazzus/opencl)
 3. Numerical Analysis
    * [HW1](https://github.com/IEclipseI/numerical-analysis-hw1)
    * [HW2](https://github.com/hazzus/numanal-hw2)
    * [Term paper](https://github.com/hazzus/numanal-term-paper)
 4. [Functional Programming (Haskell)](https://github.com/hazzus/funcprog) (not full)
+
+## Term 7
+1. [Machine Learning](https://github.com/hazzus/ml)
+2. [Coding Theory](https://github.com/hazzus/coding-theory)
+3. [Databases](https://github.com/hazzus/databases)
