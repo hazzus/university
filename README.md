@@ -48,3 +48,9 @@ I am a student of third course on Computer Technologies Department in ITMO Unive
 1. [Machine Learning](https://github.com/hazzus/ml)
 2. [Coding Theory](https://github.com/hazzus/coding-theory)
 3. [Databases](https://github.com/hazzus/databases)
+4. [Software Design](https://github.com/hazzus/software-design)
+
+## Term 8
+1. [Optimization Methods](https://github.com/hazzus/optimization-methods)
+2. [Software Design](https://github.com/hazzus/software-design)
+   * [Lab 4 - Docker integration testing](https://github.com/hazzus/sd-trade-lab4)
